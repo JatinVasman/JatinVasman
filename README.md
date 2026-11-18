@@ -7,9 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/jatinvasman" target="blank"><img src="https://img.shields.io/twitter/follow/jatinvasman?logo=twitter&style=for-the-badge" alt="jatinvasman" /></a> </p>
 
-- 🔭 I’m currently working on **HorseJet**
 
-- 🌱 I’m currently learning **Blockchain, Game Dev**
+- 🌱 I’m currently learning **Cyber** **Security**
 
 - 📫 How to reach me **jatinvasman@gmail.com**
 
